@@ -15,7 +15,7 @@ This will be a flashcard application. I used to work in a school and work with k
 ### Technologies
 ##JavaScript
 #JQuery
-#MySQL
+#MySQL  
 #Angular or React (still deciding)
 ### What I'll Have to Learn
 #How to create the decks in the most efficient way (I've been flipping between objects or arrays: arrays are *easier* but extremely messy, objects are cleaner but I'm unsure of how to divide them in separate cards)
