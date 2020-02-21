@@ -13,7 +13,7 @@ This will be a flashcard application. I used to work in a school and work with k
 #Decks: Choose a deck (object?) to quiz on (matching key/value pairs); answers will be user input
 #Data: Collect accuracy of each key/value pair and show report (SQL based)
 ### Technologies
-#JavaScript
+##JavaScript
 #JQuery
 #MySQL
 #Angular or React (still deciding)
