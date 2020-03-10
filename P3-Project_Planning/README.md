@@ -17,6 +17,6 @@ https://trello.com/b/ZBWwIhgF/lift-off
 
 ### Project Repo Link
 
-https://github.com/youngshaowei/quizzitAngular 
+https://github.com/youngshaowei/quizzitAngular  
 https://github.com/youngshaowei/quizzitSecurity  
 Since I'll be doing microservicing, I'll have multiple repos to keep everything separate
